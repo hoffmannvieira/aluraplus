@@ -163,4 +163,5 @@ body {
 .container__botao:hover {
     background-color: #4192f5;
     color: var(--cor-fundo);
+    transition: 0.25s;
 }
